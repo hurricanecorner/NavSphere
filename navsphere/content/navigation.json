@@ -1414,6 +1414,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1764036464793",
+      "title": "搜索",
+      "icon": "Search",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
