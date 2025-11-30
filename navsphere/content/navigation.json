@@ -115,6 +115,81 @@
       "enabled": true
     },
     {
+      "id": "1764036464793",
+      "title": "搜索",
+      "icon": "Search",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "409fa820-257d-4f1b-9034-7075f3754fa0",
+          "title": "综合搜索引擎",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1764472351400",
+              "title": "谷歌搜索",
+              "href": "https://www.google.com/",
+              "description": "全球最大的搜索引擎",
+              "icon": "/assets/favicon_1764472356778.png",
+              "enabled": true
+            },
+            {
+              "id": "1764472572597",
+              "title": "必应搜索",
+              "href": "https://cn.bing.com",
+              "description": "微软旗下智能搜索引擎，界面简洁，支持查找信息、浏览网页、图像、视频、地图等",
+              "icon": "/assets/favicon_1764472576374.png",
+              "enabled": true
+            },
+            {
+              "id": "1764472929620",
+              "title": "百度搜索",
+              "href": "https://www.baidu.com",
+              "description": "中文搜索引擎首选，超过千亿的中文网页数据库，整合贴吧、知道等生态资源",
+              "icon": "/assets/favicon_1764472935824.ico",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "ea4a9bef-67f7-44da-9737-5b264c3525d4",
+          "title": "图片/视频搜索",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "9bfe7346-31f3-4817-ad27-30ce3e97b6b2",
+          "title": "网盘资源搜索​",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "1d54e265-f996-4058-a03d-80693868f185",
+          "title": "学术搜索",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "c724362a-ddb9-4aa4-85b6-beb44cb8dcc8",
+          "title": "AI搜索",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
+    },
+    {
       "id": "1761724945457",
       "title": "媒体资讯",
       "icon": "Coffee",
@@ -1412,81 +1487,6 @@
               "enabled": true
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "1764036464793",
-      "title": "搜索",
-      "icon": "Search",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "409fa820-257d-4f1b-9034-7075f3754fa0",
-          "title": "综合搜索引擎",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1764472351400",
-              "title": "谷歌搜索",
-              "href": "https://www.google.com/",
-              "description": "全球最大的搜索引擎",
-              "icon": "/assets/favicon_1764472356778.png",
-              "enabled": true
-            },
-            {
-              "id": "1764472572597",
-              "title": "必应搜索",
-              "href": "https://cn.bing.com",
-              "description": "微软旗下智能搜索引擎，界面简洁，支持查找信息、浏览网页、图像、视频、地图等",
-              "icon": "/assets/favicon_1764472576374.png",
-              "enabled": true
-            },
-            {
-              "id": "1764472929620",
-              "title": "百度搜索",
-              "href": "https://www.baidu.com",
-              "description": "中文搜索引擎首选，超过千亿的中文网页数据库，整合贴吧、知道等生态资源",
-              "icon": "/assets/favicon_1764472935824.ico",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "ea4a9bef-67f7-44da-9737-5b264c3525d4",
-          "title": "图片/视频搜索",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "9bfe7346-31f3-4817-ad27-30ce3e97b6b2",
-          "title": "网盘资源搜索​",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "1d54e265-f996-4058-a03d-80693868f185",
-          "title": "学术搜索",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "c724362a-ddb9-4aa4-85b6-beb44cb8dcc8",
-          "title": "AI搜索",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     }
