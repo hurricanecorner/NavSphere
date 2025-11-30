@@ -309,6 +309,14 @@
               "description": "Google DeepMind 开发的 AI 图像生成和编辑模型的内部代号。该模型在 LMArena 匿名测试平台上表现出色。 用户根据其出色的图像一致性和控制能力，给它取了“Nano Banana”（纳米香蕉）这个昵称",
               "icon": "/assets/favicon_1760435673911.png",
               "enabled": true
+            },
+            {
+              "id": "1760605598288",
+              "title": "veo-3",
+              "href": "https://aistudio.google.com/models/veo-3",
+              "description": "使用 Gemini 实现从开发到生产的最快路径",
+              "icon": "/assets/favicon_1760605601454.png",
+              "enabled": true
             }
           ]
         },
@@ -451,16 +459,7 @@
           "icon": "BookOpen",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1760605598288",
-              "title": "veo-3",
-              "href": "https://aistudio.google.com/models/veo-3",
-              "description": "The fastest path from prompt to production with Gemini",
-              "icon": "/assets/favicon_1760605601454.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "eb656a11-5442-4670-9cb6-9ba9bd08682f",
