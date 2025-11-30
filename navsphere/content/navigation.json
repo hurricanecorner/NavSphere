@@ -334,7 +334,16 @@
           "icon": "FolderOpen",
           "description": "针对特定行业的AI工具，如电商、教育、医疗等",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1752554261491",
+              "title": "Smithery",
+              "href": "https://smithery.ai/",
+              "description": "Smithery 就像一个“AI 工具应用商店”，帮助将原本孤立的上下文和功能转化为 AI 可以使用的技能。一个为 AI 代理（Agent）开发者提供工具和集成的平台。它主要作为一个Model Context Protocol (MCP) 服务器的注册中心和网关",
+              "icon": "/assets/img_1752554273115.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
@@ -400,16 +409,7 @@
           "icon": "Edit",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1752554261491",
-              "title": "MCP Server 集合站",
-              "href": "https://smithery.ai/",
-              "description": "各种各样的 MCP Server",
-              "icon": "/assets/img_1752554273115.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "428d0ba1-78f8-48d6-83db-f837f3830e1f",
