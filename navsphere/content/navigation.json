@@ -293,7 +293,16 @@
           "icon": "FolderOpen",
           "description": "聚焦图像、视频的生成工具，覆盖从创意到落地的完整链路",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760435417839",
+              "title": "Sora",
+              "href": "https://sora.chatgpt.com/",
+              "description": "将文本和图片转化为沉浸式视频。让故事动起来，将想法可视化，让你的创意变得栩栩如生",
+              "icon": "/assets/favicon_1760435422176.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "4b4e9bc7-5462-4a18-a00b-ef4168a06578",
@@ -435,14 +444,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1760435417839",
-              "title": "Sora",
-              "href": "https://sora.chatgpt.com/",
-              "description": "Transform text and images into immersive videos. Animate stories, visualize ideas, and bring your concepts to life.",
-              "icon": "/assets/favicon_1760435422176.ico",
-              "enabled": true
-            },
             {
               "id": "1760435669948",
               "title": "Nano Banana",
