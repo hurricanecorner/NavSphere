@@ -190,6 +190,15 @@
       ]
     },
     {
+      "id": "1764483947666",
+      "title": "AI",
+      "icon": "Brain",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1761724945457",
       "title": "媒体资讯",
       "icon": "Coffee",
@@ -1489,15 +1498,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1764483947666",
-      "title": "AI",
-      "icon": "Brain",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
