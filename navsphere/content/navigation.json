@@ -233,6 +233,14 @@
               "description": "最精准的搜索，最绚丽的浏览。天下美图，尽收眼前。海量图库，精彩分类：生活时尚、潮流女星、闪亮男星、影视集锦、游戏动漫、精美壁纸、爆笑趣图、体育军事、风景名胜",
               "icon": "/assets/favicon_1764482570181.ico",
               "enabled": true
+            },
+            {
+              "id": "1764482650112",
+              "title": "百度识图",
+              "href": "https://graph.baidu.com/pcpage/index?tpl_from=pc",
+              "description": "便捷的中文识图服务",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=graph.baidu.com",
+              "enabled": true
             }
           ]
         },
