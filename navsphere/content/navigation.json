@@ -220,6 +220,14 @@
           "description": "聚焦图像、视频、音频的生成工具，覆盖从创意到落地的完整链路",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "0aa14ecc-7b24-48d4-a3e4-5dabbdc35c0e",
+          "title": "AI办公提效工具",
+          "icon": "FolderOpen",
+          "description": "提升办公效率的自动化工具，覆盖网页处理、数据分析、会议管理等场景",
+          "enabled": true,
+          "items": []
         }
       ]
     },
