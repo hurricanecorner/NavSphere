@@ -386,6 +386,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "c60490c5-ac08-49e0-bd4d-a1242886efbf",
+          "title": "AI代码编程和辅助",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
