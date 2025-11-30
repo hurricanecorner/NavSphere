@@ -300,7 +300,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764483108028",
+              "title": "秘塔AI搜索",
+              "href": "https://metaso.cn/",
+              "description": "无广告干扰及直接呈现结果的智能搜索体验",
+              "icon": "/assets/favicon_1764483112254.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
