@@ -236,6 +236,14 @@
           "description": "结合AI的设计工具，支持快速原型、智能配色、素材生成等",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "b6672253-f7b3-46bf-9625-afceeedd033f",
+          "title": "AI行业解决方案",
+          "icon": "FolderOpen",
+          "description": "针对特定行业的AI工具，如电商、教育、医疗等",
+          "enabled": true,
+          "items": []
         }
       ]
     },
