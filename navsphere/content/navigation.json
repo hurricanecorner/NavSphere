@@ -283,6 +283,14 @@
               "description": "整合中文论文资源",
               "icon": "/assets/favicon_1764482966235.png",
               "enabled": true
+            },
+            {
+              "id": "1764483055079",
+              "title": "Google学术搜索",
+              "href": "https://scholar.google.com/",
+              "description": "借助 Google 学术搜索，您可以轻松地大范围搜索学术文献。搜索范围囊括众多知识领域和来源：文章、论文、图书、摘要和法院判决意见书",
+              "icon": "/assets/favicon_1764483060402.ico",
+              "enabled": true
             }
           ]
         },
