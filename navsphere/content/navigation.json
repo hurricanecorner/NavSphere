@@ -236,7 +236,16 @@
           "icon": "FolderOpen",
           "description": "集成强大的对话和语言模型",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764485250021",
+              "title": "Chatgpt",
+              "href": "https://chatgpt.com/",
+              "description": "OpenAI旗下GPT-5最新大模型",
+              "icon": "/assets/favicon_1764485254729.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "599f3ae9-304e-475c-804d-5e40ce449ee7",
