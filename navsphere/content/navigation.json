@@ -219,6 +219,14 @@
               "description": "Toolify 是最大的人工智能工具目录和 GPTs 商店应用程序\n超过 27400+ 个人工智能网站和人工智能工具\n人工智能工具列表和 GPT 商店应用程序列表由 ChatGPT 自动更新",
               "icon": "/assets/favicon_1764484927085.ico",
               "enabled": true
+            },
+            {
+              "id": "1764485040283",
+              "title": "Futurepedia.io",
+              "href": "https://www.futurepedia.io/",
+              "description": "Futurepedia是一个免费网站，能帮助您找到最优秀的人工智能工具与软件，从而提升您的工作与生活效率。该网站每天都会更新内容，按文本/图像/视频/音频分类，配套周报与案例专栏，目前已有数百万用户关注我们的网站、订阅我们的电子新闻通讯，同时也有大量用户观看我们在YouTube上的视频",
+              "icon": "/assets/favicon_1764485050379.ico",
+              "enabled": true
             }
           ]
         },
