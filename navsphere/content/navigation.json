@@ -301,7 +301,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760435371540",
+              "title": "Suno",
+              "href": "https://suno.com/home",
+              "description": "利用人工智能，只需几秒钟就能创作出令人惊叹的原创音乐。打造属于你自己的音乐杰作，与朋友分享，同时还能发现来自世界各地艺术家的作品",
+              "icon": "/assets/favicon_1760435376153.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "a1980f60-325c-4552-a6d2-38687ab60130",
@@ -426,14 +435,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1760435371540",
-              "title": "Suno",
-              "href": "https://suno.com/home",
-              "description": "利用人工智能，只需几秒钟就能创作出令人惊叹的原创音乐。打造属于你自己的音乐杰作，与朋友分享，同时还能发现来自世界各地艺术家的作品",
-              "icon": "/assets/favicon_1760435376153.ico",
-              "enabled": true
-            },
             {
               "id": "1760435417839",
               "title": "Sora",
