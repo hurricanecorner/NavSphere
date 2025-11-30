@@ -344,6 +344,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "4b4e9bc7-5462-4a18-a00b-ef4168a06578",
+          "title": "AI音频生成工具",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
