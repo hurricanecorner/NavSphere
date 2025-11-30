@@ -1445,6 +1445,14 @@
               "description": "微软旗下智能搜索引擎，界面简洁，支持查找信息、浏览网页、图像、视频、地图等",
               "icon": "/assets/favicon_1764472576374.png",
               "enabled": true
+            },
+            {
+              "id": "1764472929620",
+              "title": "百度搜索",
+              "href": "https://www.baidu.com",
+              "description": "中文搜索引擎首选，超过千亿的中文网页数据库，整合贴吧、知道等生态资源",
+              "icon": "/assets/favicon_1764472935824.ico",
+              "enabled": true
             }
           ]
         },
