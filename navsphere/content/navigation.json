@@ -258,7 +258,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764482828725",
+              "title": "茶杯狐 - 片荒剧荒就来茶杯狐",
+              "href": "https://cupfox.love/",
+              "description": "最新片单请微信搜索关注“茶杯狐”公众号！",
+              "icon": "/assets/favicon_1764482833031.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "1d54e265-f996-4058-a03d-80693868f185",
