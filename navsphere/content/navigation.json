@@ -92,6 +92,14 @@
           "description": "",
           "icon": "/assets/favicon_1761724837449.svg",
           "enabled": true
+        },
+        {
+          "id": "1764488323399",
+          "title": "即梦AI",
+          "href": "https://jimeng.jianying.com/ai-tool/home",
+          "description": "一站式AI创作平台",
+          "icon": "/assets/favicon_1764488342556.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
