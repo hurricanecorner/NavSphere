@@ -196,7 +196,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "8c56748b-a5dd-403f-a4e9-494ac3b697c8",
+          "title": "AI导航",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1761724945457",
