@@ -200,6 +200,14 @@
               "description": "隐私保护型搜索引擎，不追踪用户行为，让你能够无缝掌控在线个人信息的互联网隐私而无需做出任何取舍",
               "icon": "/assets/favicon_1764479408356.ico",
               "enabled": true
+            },
+            {
+              "id": "1764479451977",
+              "title": "Yandex",
+              "href": "https://yandex.com/",
+              "description": "俄罗斯的一款综合搜索引擎",
+              "icon": "/assets/favicon_1764479456911.png",
+              "enabled": true
             }
           ]
         },
