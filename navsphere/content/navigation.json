@@ -228,6 +228,14 @@
           "description": "提升办公效率的自动化工具，覆盖网页处理、数据分析、会议管理等场景",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "a1980f60-325c-4552-a6d2-38687ab60130",
+          "title": "AI设计工具",
+          "icon": "FolderOpen",
+          "description": "结合AI的设计工具，支持快速原型、智能配色、素材生成等",
+          "enabled": true,
+          "items": []
         }
       ]
     },
