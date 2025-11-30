@@ -276,6 +276,14 @@
               "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务",
               "icon": "/assets/img_1739871936809.png",
               "enabled": true
+            },
+            {
+              "id": "1759046285125",
+              "title": "Grok",
+              "href": "https://grok.com/",
+              "description": "Grok是由xAI开发的一款免费人工智能助手，其设计宗旨在于最大限度地确保信息的真实性与客观性。Grok具备实时搜索、图像生成、趋势分析等多种功能",
+              "icon": "/assets/favicon_1759046289851.png",
+              "enabled": true
             }
           ]
         },
@@ -359,16 +367,7 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1759046285125",
-              "title": "Grok",
-              "href": "https://grok.com/",
-              "description": "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.",
-              "icon": "/assets/favicon_1759046289851.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3ff",
