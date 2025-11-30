@@ -304,6 +304,14 @@
           "items": []
         },
         {
+          "id": "a1980f60-325c-4552-a6d2-38687ab60130",
+          "title": "AI设计工具",
+          "icon": "FolderOpen",
+          "description": "结合AI的设计工具，支持快速原型、智能配色、素材生成等",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "0aa14ecc-7b24-48d4-a3e4-5dabbdc35c0e",
           "title": "AI办公提效工具",
           "icon": "FolderOpen",
@@ -327,14 +335,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "a1980f60-325c-4552-a6d2-38687ab60130",
-          "title": "AI设计工具",
-          "icon": "FolderOpen",
-          "description": "结合AI的设计工具，支持快速原型、智能配色、素材生成等",
-          "enabled": true,
-          "items": []
         },
         {
           "id": "b6672253-f7b3-46bf-9625-afceeedd033f",
