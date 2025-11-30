@@ -1429,16 +1429,7 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1764471436835",
-              "title": "Google",
-              "href": "https://www.google.com/",
-              "description": "全球最大的搜索引擎",
-              "icon": "/assets/img_1764471985619.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "ea4a9bef-67f7-44da-9737-5b264c3525d4",
