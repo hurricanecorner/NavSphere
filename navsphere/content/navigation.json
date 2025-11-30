@@ -1454,6 +1454,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "c724362a-ddb9-4aa4-85b6-beb44cb8dcc8",
+          "title": "AI搜索",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
