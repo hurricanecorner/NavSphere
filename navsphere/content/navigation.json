@@ -351,7 +351,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1760513538759",
+              "title": "v0 by Vercel",
+              "href": "https://v0.app/",
+              "description": "你的协作式人工智能助手，能够帮助你设计、迭代并扩展全栈Web应用程序",
+              "icon": "/assets/favicon_1760513560381.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "0aa14ecc-7b24-48d4-a3e4-5dabbdc35c0e",
@@ -475,16 +484,7 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1760513538759",
-              "title": "v0 by Vercel",
-              "href": "https://v0.app/",
-              "description": "Your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.",
-              "icon": "/assets/favicon_1760513560381.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ],
       "description": "",
