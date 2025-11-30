@@ -208,6 +208,14 @@
               "description": "俄罗斯的一款综合搜索引擎",
               "icon": "/assets/favicon_1764479456911.png",
               "enabled": true
+            },
+            {
+              "id": "1764479469468",
+              "title": "SkyJem",
+              "href": "https://skyjem.com/",
+              "description": "提供Google不同国家域名后缀大全的搜索服务",
+              "icon": "/assets/favicon_1764479473100.png",
+              "enabled": true
             }
           ]
         },
