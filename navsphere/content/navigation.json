@@ -238,6 +238,14 @@
               "enabled": true
             },
             {
+              "id": "item-1754218579319",
+              "title": "DeepSeek",
+              "href": "https://chat.deepseek.com/",
+              "description": "深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持",
+              "icon": "/assets/favicon_1754218571142.svg",
+              "enabled": true
+            },
+            {
               "id": "9_2",
               "title": "Claude",
               "href": "https://claude.ai/",
@@ -259,14 +267,6 @@
               "href": "https://grok.com/",
               "description": "Grok是由xAI开发的一款免费人工智能助手，其设计宗旨在于最大限度地确保信息的真实性与客观性。Grok具备实时搜索、图像生成、趋势分析等多种功能",
               "icon": "/assets/favicon_1759046289851.png",
-              "enabled": true
-            },
-            {
-              "id": "item-1754218579319",
-              "title": "DeepSeek",
-              "href": "https://chat.deepseek.com/",
-              "description": "深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持",
-              "icon": "/assets/favicon_1754218571142.svg",
               "enabled": true
             },
             {
