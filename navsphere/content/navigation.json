@@ -1426,7 +1426,7 @@
         {
           "id": "409fa820-257d-4f1b-9034-7075f3754fa0",
           "title": "综合搜索引擎",
-          "icon": "Folder",
+          "icon": "FolderOpen",
           "description": "",
           "enabled": true,
           "items": []
