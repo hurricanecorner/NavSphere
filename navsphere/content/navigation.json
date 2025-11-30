@@ -108,14 +108,6 @@
           "description": "",
           "icon": "/assets/favicon_1761724837449.svg",
           "enabled": true
-        },
-        {
-          "id": "1764483839626",
-          "title": "秀米编辑器",
-          "href": "https://xiumi.us/",
-          "description": "秀米，微信公众号排版和H5制作工具",
-          "icon": "/assets/favicon_1764483843952.png",
-          "enabled": true
         }
       ],
       "subCategories": [],
@@ -160,70 +152,6 @@
               "description": "中文搜索引擎首选，超过千亿的中文网页数据库，整合贴吧、知道等生态资源",
               "icon": "/assets/favicon_1764472935824.ico",
               "enabled": true
-            },
-            {
-              "id": "1764479205442",
-              "title": "雅虎搜索",
-              "href": "https://search.yahoo.com/",
-              "description": "Yahoo新闻聚合页面，呈现多领域资讯片段，帮助你准确找到你想要的东西",
-              "icon": "/assets/favicon_1764479209771.png",
-              "enabled": true
-            },
-            {
-              "id": "1764479262226",
-              "title": "360搜索",
-              "href": "https://www.so.com/",
-              "description": "整合实时天气与社会热点资讯，突出AI工具服务",
-              "icon": "/assets/favicon_1764479269363.png",
-              "enabled": true
-            },
-            {
-              "id": "1764479287067",
-              "title": "360综合搜索",
-              "href": "https://www.so.com/?src=zh",
-              "description": "360搜索是安全、精准、可信赖的新一代搜索引擎，360搜索 so靠谱",
-              "icon": "/assets/favicon_1764479293639.ico",
-              "enabled": true
-            },
-            {
-              "id": "1764479351992",
-              "title": "搜狗搜索",
-              "href": "https://www.sogou.com/",
-              "description": "搜狗搜索是全球第三代互动式搜索引擎，支持微信公众号和文章搜索、知乎搜索、英文搜索及翻译等，通过自主研发的人工智能算法为用户提供专业、精准、便捷的搜索服务",
-              "icon": "/assets/favicon_1764479357655.ico",
-              "enabled": true
-            },
-            {
-              "id": "1764479383926",
-              "title": "搜搜搜索",
-              "href": "https://www.soso.com/",
-              "description": "腾讯公司推出的搜索引擎，搜搜更懂你",
-              "icon": "/assets/favicon_1764479388998.png",
-              "enabled": true
-            },
-            {
-              "id": "1764479404422",
-              "title": "DuckDuckGo",
-              "href": "https://duckduckgo.com",
-              "description": "隐私保护型搜索引擎，不追踪用户行为，让你能够无缝掌控在线个人信息的互联网隐私而无需做出任何取舍",
-              "icon": "/assets/favicon_1764479408356.ico",
-              "enabled": true
-            },
-            {
-              "id": "1764479451977",
-              "title": "Yandex",
-              "href": "https://yandex.com/",
-              "description": "俄罗斯的一款综合搜索引擎",
-              "icon": "/assets/favicon_1764479456911.png",
-              "enabled": true
-            },
-            {
-              "id": "1764479469468",
-              "title": "SkyJem",
-              "href": "https://skyjem.com/",
-              "description": "提供Google不同国家域名后缀大全的搜索服务",
-              "icon": "/assets/favicon_1764479473100.png",
-              "enabled": true
             }
           ]
         },
@@ -233,32 +161,7 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1764482566957",
-              "title": "谷歌图片",
-              "href": "https://www.google.com/imghp?hl=zh-CN&ogbl",
-              "description": "最精准的搜索，最绚丽的浏览。天下美图，尽收眼前。海量图库，精彩分类：生活时尚、潮流女星、闪亮男星、影视集锦、游戏动漫、精美壁纸、爆笑趣图、体育军事、风景名胜",
-              "icon": "/assets/favicon_1764482570181.ico",
-              "enabled": true
-            },
-            {
-              "id": "1764482650112",
-              "title": "百度识图",
-              "href": "https://graph.baidu.com/pcpage/index?tpl_from=pc",
-              "description": "便捷的中文识图服务",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=graph.baidu.com",
-              "enabled": true
-            },
-            {
-              "id": "1764482744286",
-              "title": "Yandex图片搜索",
-              "href": "https://yandex.com/images/",
-              "description": "支持以图搜图",
-              "icon": "/assets/favicon_1764482748663.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "9bfe7346-31f3-4817-ad27-30ce3e97b6b2",
@@ -266,16 +169,7 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1764482828725",
-              "title": "茶杯狐 - 片荒剧荒就来茶杯狐",
-              "href": "https://cupfox.love/",
-              "description": "最新片单请微信搜索关注“茶杯狐”公众号！",
-              "icon": "/assets/favicon_1764482833031.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "1d54e265-f996-4058-a03d-80693868f185",
@@ -283,24 +177,7 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1764482961703",
-              "title": "百度学术",
-              "href": "https://xueshu.baidu.com/",
-              "description": "整合中文论文资源",
-              "icon": "/assets/favicon_1764482966235.png",
-              "enabled": true
-            },
-            {
-              "id": "1764483055079",
-              "title": "Google学术搜索",
-              "href": "https://scholar.google.com/",
-              "description": "借助 Google 学术搜索，您可以轻松地大范围搜索学术文献。搜索范围囊括众多知识领域和来源：文章、论文、图书、摘要和法院判决意见书",
-              "icon": "/assets/favicon_1764483060402.ico",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "c724362a-ddb9-4aa4-85b6-beb44cb8dcc8",
@@ -308,16 +185,7 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1764483108028",
-              "title": "秘塔AI搜索",
-              "href": "https://metaso.cn/",
-              "description": "无广告干扰及直接呈现结果的智能搜索体验",
-              "icon": "/assets/favicon_1764483112254.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ]
     },
@@ -1621,6 +1489,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1764483947666",
+      "title": "AI",
+      "icon": "Brain",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
