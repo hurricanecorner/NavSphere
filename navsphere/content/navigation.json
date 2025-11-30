@@ -1446,6 +1446,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "1d54e265-f996-4058-a03d-80693868f185",
+          "title": "学术搜索",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
