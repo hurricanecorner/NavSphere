@@ -108,6 +108,14 @@
           "description": "",
           "icon": "/assets/favicon_1761724837449.svg",
           "enabled": true
+        },
+        {
+          "id": "1764483839626",
+          "title": "秀米编辑器",
+          "href": "https://xiumi.us/",
+          "description": "秀米，微信公众号排版和H5制作工具",
+          "icon": "/assets/favicon_1764483843952.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
