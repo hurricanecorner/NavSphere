@@ -241,6 +241,14 @@
               "description": "便捷的中文识图服务",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=graph.baidu.com",
               "enabled": true
+            },
+            {
+              "id": "1764482744286",
+              "title": "Yandex图片搜索",
+              "href": "https://yandex.com/images/",
+              "description": "支持以图搜图",
+              "icon": "/assets/favicon_1764482748663.png",
+              "enabled": true
             }
           ]
         },
