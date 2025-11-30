@@ -1437,6 +1437,14 @@
               "description": "全球最大的搜索引擎",
               "icon": "/assets/favicon_1764472356778.png",
               "enabled": true
+            },
+            {
+              "id": "1764472572597",
+              "title": "搜索 - Microsoft 必应",
+              "href": "https://cn.bing.com",
+              "description": "微软旗下智能搜索引擎，界面简洁，支持查找信息、浏览网页、图像、视频、地图等",
+              "icon": "/assets/favicon_1764472576374.png",
+              "enabled": true
             }
           ]
         },
