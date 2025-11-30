@@ -225,7 +225,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764482566957",
+              "title": "谷歌图片",
+              "href": "https://www.google.com/imghp?hl=zh-CN&ogbl",
+              "description": "最精准的搜索，最绚丽的浏览。天下美图，尽收眼前。海量图库，精彩分类：生活时尚、潮流女星、闪亮男星、影视集锦、游戏动漫、精美壁纸、爆笑趣图、体育军事、风景名胜",
+              "icon": "/assets/favicon_1764482570181.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "9bfe7346-31f3-4817-ad27-30ce3e97b6b2",
