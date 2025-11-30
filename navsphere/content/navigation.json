@@ -203,7 +203,16 @@
           "icon": "FolderOpen",
           "description": "AI工具导航站，适合广泛探索和偶然发现新工具",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764484866888",
+              "title": "发现AI",
+              "href": "https://www.faxianai.com/",
+              "description": "覆盖999+工具，含绘画、写作、音视频处理，提供教程与行业动态",
+              "icon": "/assets/favicon_1764484872393.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "5616599e-a6f0-4675-903d-59df8cacde01",
