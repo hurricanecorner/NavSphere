@@ -275,7 +275,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1764482961703",
+              "title": "百度学术",
+              "href": "https://xueshu.baidu.com/",
+              "description": "整合中文论文资源",
+              "icon": "/assets/favicon_1764482966235.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "c724362a-ddb9-4aa4-85b6-beb44cb8dcc8",
