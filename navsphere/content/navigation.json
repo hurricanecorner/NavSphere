@@ -209,7 +209,7 @@
           "id": "5616599e-a6f0-4675-903d-59df8cacde01",
           "title": "AI聊天与助手",
           "icon": "FolderOpen",
-          "description": "",
+          "description": "集成强大的对话和语言模型",
           "enabled": true,
           "items": []
         }
