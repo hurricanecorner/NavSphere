@@ -1434,7 +1434,7 @@
         {
           "id": "ea4a9bef-67f7-44da-9737-5b264c3525d4",
           "title": "图片/视频搜索",
-          "icon": "Folder",
+          "icon": "FolderOpen",
           "description": "",
           "enabled": true,
           "items": []
