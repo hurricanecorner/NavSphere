@@ -301,6 +301,14 @@
               "description": "将文本和图片转化为沉浸式视频。让故事动起来，将想法可视化，让你的创意变得栩栩如生",
               "icon": "/assets/favicon_1760435422176.ico",
               "enabled": true
+            },
+            {
+              "id": "1760435669948",
+              "title": "Nano Banana",
+              "href": "https://aistudio.google.com/gen-media",
+              "description": "Google DeepMind 开发的 AI 图像生成和编辑模型的内部代号。该模型在 LMArena 匿名测试平台上表现出色。 用户根据其出色的图像一致性和控制能力，给它取了“Nano Banana”（纳米香蕉）这个昵称",
+              "icon": "/assets/favicon_1760435673911.png",
+              "enabled": true
             }
           ]
         },
@@ -444,14 +452,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1760435669948",
-              "title": "Nano Banana",
-              "href": "https://aistudio.google.com/gen-media",
-              "description": "在AI 图像生成领域，神秘的Nano Banana 悄悄窜起，现已正名为Gemini 2.5 Flash Image。它最初并非透过Google 官方宣传引起关注，而是在LM Arena 评比平台上表现亮眼，还掀起 Gemini 公仔风潮！",
-              "icon": "/assets/favicon_1760435673911.png",
-              "enabled": true
-            },
             {
               "id": "1760605598288",
               "title": "veo-3",
