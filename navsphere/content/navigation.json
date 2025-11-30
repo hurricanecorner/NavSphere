@@ -192,6 +192,14 @@
               "description": "腾讯公司推出的搜索引擎，搜搜更懂你",
               "icon": "/assets/favicon_1764479388998.png",
               "enabled": true
+            },
+            {
+              "id": "1764479404422",
+              "title": "DuckDuckGo",
+              "href": "https://duckduckgo.com",
+              "description": "隐私保护型搜索引擎，不追踪用户行为，让你能够无缝掌控在线个人信息的互联网隐私而无需做出任何取舍",
+              "icon": "/assets/favicon_1764479408356.ico",
+              "enabled": true
             }
           ]
         },
