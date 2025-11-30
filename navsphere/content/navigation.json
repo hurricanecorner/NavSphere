@@ -176,6 +176,14 @@
               "description": "360搜索是安全、精准、可信赖的新一代搜索引擎，360搜索 so靠谱",
               "icon": "/assets/favicon_1764479293639.ico",
               "enabled": true
+            },
+            {
+              "id": "1764479351992",
+              "title": "搜狗搜索",
+              "href": "https://www.sogou.com/",
+              "description": "搜狗搜索是全球第三代互动式搜索引擎，支持微信公众号和文章搜索、知乎搜索、英文搜索及翻译等，通过自主研发的人工智能算法为用户提供专业、精准、便捷的搜索服务",
+              "icon": "/assets/favicon_1764479357655.ico",
+              "enabled": true
             }
           ]
         },
