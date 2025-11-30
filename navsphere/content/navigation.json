@@ -346,6 +346,14 @@
           "items": []
         },
         {
+          "id": "c60490c5-ac08-49e0-bd4d-a1242886efbf",
+          "title": "AI代码编程和辅助",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "0aa14ecc-7b24-48d4-a3e4-5dabbdc35c0e",
           "title": "AI办公提效工具",
           "icon": "FolderOpen",
@@ -386,14 +394,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "c60490c5-ac08-49e0-bd4d-a1242886efbf",
-          "title": "AI代码编程和辅助",
-          "icon": "FolderOpen",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
