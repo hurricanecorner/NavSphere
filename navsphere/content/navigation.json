@@ -204,6 +204,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "5616599e-a6f0-4675-903d-59df8cacde01",
+          "title": "AI聊天与助手",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
