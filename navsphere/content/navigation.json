@@ -160,6 +160,14 @@
               "description": "Yahoo新闻聚合页面，呈现多领域资讯片段，帮助你准确找到你想要的东西",
               "icon": "/assets/favicon_1764479209771.png",
               "enabled": true
+            },
+            {
+              "id": "1764479262226",
+              "title": "360搜索",
+              "href": "https://www.so.com/",
+              "description": "整合实时天气与社会热点资讯，突出AI工具服务",
+              "icon": "/assets/favicon_1764479269363.png",
+              "enabled": true
             }
           ]
         },
